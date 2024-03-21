@@ -11,7 +11,7 @@
    - elmo
 
 
-![图片alt](/pray.jpg "good luck")
+![pic](/pray.jpg "an emoje for praying accept")
 
 
 Notice: the complete code will be released after the manuscript published.
