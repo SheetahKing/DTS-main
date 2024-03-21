@@ -1,0 +1,6 @@
+通常我们需要保存的是三个文件及一些额外的文件
+【主要的三个文件】
+第一个是配置文件：config.json。
+第二个是词典文件：vocab.json。
+第三个是预训练模型文件[pytorch]：pytorch_model.bin
+
