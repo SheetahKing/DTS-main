@@ -10,7 +10,7 @@ ASTE extracts target terms, opinion terms, and their sentiment polarity from rev
 
 The main results of ASTE-DATA-V2 are listed in the table below. The detailed analysis is available in the paper.
 
-![Main Results](src/results.png)
+![Main Results](src/aste2.png)
 
 ## Configuration
 All the experiments in this thesis were conducted based on the Anaconda virtual environment, and the basic hardware environment and major software versions are shown in the list:
