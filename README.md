@@ -46,7 +46,7 @@ The above gives the main packages included in the environment, and we provide a 
 pip install -r requirements.txt
 ```
 
-### DTF Project Structure
+### DTS Project Structure
 Model code section:
 ```
 mycode
