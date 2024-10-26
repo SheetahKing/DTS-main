@@ -27,13 +27,13 @@ In this section, we will give details on how to configure DTF's conda virtual en
 
 ```sh
 pip install transformers==4.15.0
-pip install pytorch==1.9.0 (cu111)
-pip install spacy==3.5.0
-pip install nltk==3.7.0
+pip install pytorch==1.8.0 (cu111)
 pip install einops=0.4.0
 pip install torchmetrics==0.7.0
 pip install tntorch==1.0.1
 pip install pytorch-lightning==1.3.5
+pip install spacy==3.5.0
+pip install nltk==3.7.0
 ...
 ```
 The above gives the main packages included in the environment, and we provide a simple requirement.txt file that you can use to install them with the following statement:
