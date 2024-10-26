@@ -27,7 +27,7 @@ All the experiments in this thesis were conducted based on the Anaconda virtual 
 - NVIDIA Driver Version: 531.18
 
 ### Conda Configuration
-In this section, we will give details on how to configure DTF's conda virtual environment and give specific installation instructions, all based on pip 23.0.1 installation, as shown below:
+In this section, we will give details on how to configure DTS's conda virtual environment and give specific installation instructions, all based on pip 23.0.1 installation, as shown below:
 
 
 ```sh
@@ -62,7 +62,7 @@ mycode
 The following is the structure of the data file:
 ```
 data
- └── aste_data_bert
+ └── ASTE_DATASETS
         ├── V1
         │   ├── 14res
         |   │   ├── train.json
