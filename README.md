@@ -14,6 +14,11 @@ The main results of ASTE-DATA-V2 are listed in the table below. The detailed ana
 
 ![Main Results](src/aste2.png)
 
+
+In addition, we evaluate our proposed model on the ASTE-DATA-V1 dataset. Its results are listed in the table below, and the detailed analysis is available in the paper.
+
+![Main Results](src/aste1.png)
+
 ## Configuration
 All the experiments in this thesis were conducted based on the Anaconda virtual environment, and the basic hardware environment and major software versions are shown in the list:
 - Anaconda Version: conda 22.9.0
