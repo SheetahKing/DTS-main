@@ -1,7 +1,9 @@
 # DTS: A Decoupled Task Specificity Approach for Aspect Sentiment Triplet Extraction
 
 ## Introduction
-ASTE extracts target terms, opinion terms, and their sentiment polarity from reviews. Contemporary table-filling approaches prominently construct a task-sharing table for distinct subtasks to exploit the interaction between entities. However, the single table mechanism neglects the need for task-specific knowledge, inevitably causing feature confusion. We introduce an innovative method named Decoupled Task Specificity (DTS) to address these issues. Specifically, this model builds a term expert table to learn semantically and syntactically enhanced knowledge for term extraction while constructing another sentiment expert table for sentiment classification by incorporating more comprehensive contextual knowledge. 
+ASTE extracts target terms, opinion terms, and their sentiment polarity from reviews. Contemporary table-filling approaches prominently construct a task-sharing table for distinct subtasks to exploit the interaction between entities. However, the single table mechanism neglects the need for task-specific knowledge, inevitably causing feature 
+confusion. We introduce an innovative method named Decoupled Task Specificity (DTS) to address these issues. Specifically, this model builds a term expert table to learn semantically and syntactically enhanced knowledge for term extraction while constructing another sentiment expert table for sentiment classification by incorporating more 
+comprehensive contextual knowledge. 
 
 ![Task Example](src/task.png)
 
